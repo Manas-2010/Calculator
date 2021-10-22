@@ -55,11 +55,11 @@ body h1{
     font-size: 40px
 }
 
-.Contact a{
+#Contact a{
     color: white;
     text-shadow: none;
 }
 
-.Contact h5{
+#Contact h5{
     display: inline;
 }
