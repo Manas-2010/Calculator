@@ -54,3 +54,12 @@ body h1{
     margin: 2px;
     font-size: 40px
 }
+
+#Contact a{
+    color: white;
+    text-shadow: none;
+}
+
+#Contact h5{
+    display: inline;
+}
